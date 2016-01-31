@@ -1,6 +1,6 @@
 package firstPackage;
 /*
- * First project ti check in GIT
+ * First project in check in GIT
  */
 public class ParentProgram {
 	public String Pub = "Public variable";
@@ -14,5 +14,6 @@ public class ParentProgram {
 		System.out.println(Pro);
 		System.out.println(Pri);
 		System.out.println(Def);
+		System.out.println("first chenge in file");
 	}
 }
